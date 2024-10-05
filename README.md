@@ -1,0 +1,2 @@
+# submoduleParent
+submoduleの動作確認用リポジトリ
